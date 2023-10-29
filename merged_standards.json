@@ -1,0 +1,382 @@
+{
+    "Class 1 (SYNTHESIS AND DECOMPOSITION OF SU_FIELDS)": {
+        "Group 1.1 (Synthesis of su-fields)": {
+            "1.1.1": {
+                "StandardName": "New su-field",
+                "Description": "If there is an object which is not easy to change as required, and the conditions do not contain any limitations on the introduction of substances and fields, the problem is to be solved by synthesizing a Su-Field: the object is subjected to the action of a physical field which produces the necessary change in the object. To remove air (S1) from a powdered substance (S2), the substance is subjected to centrifugal forces (F)."
+            },
+            "1.1.2": {
+                "StandardName": "Internal complex su-field",
+                "Description": "If there is a need to improve positive effect, and the conditions do not contain any limitations on the introduction of additives to given substances, the problem is to be solved by introducing foreign additives in the present substances which enhance controllability or impart the required properties to the su -field. The role of these additives is to \u201cboost\u201d (or amplify) the effect of existing interaction between two substances under the present field, or to increase the degree of control over the interacti on. The resulting su -field models are known as \u201c internal complex Su -Field\u201d models. Note: It is important that a newly introduced substance does not add a new field to a system which causes additional energy consumption. To detect very small drops of l iquid (S1) in a liquid (S2), a luminescent substance is added to the liquid (S2) in advance."
+            },
+            "1.1.3": {
+                "StandardName": "External complex su-field",
+                "Description": "If there is a need to improve positive effect, and the conditions contain limitations on the introduction of additives into the existing substance s, the problem can be solved by attaching an external substance to one of the existing substances which improves controllability or brings the required properties to the SU -FIELD. The role of this new substance is to \u201cboost\u201d (or To detect a leakage of gases (S2) from a pipe (S1), an outer surface of the pipe is covered with a substance (S3) that reacts with the gas  amplify) the existing inter action between two substances, or to increase the degree of control over the interaction. The resulting su -field models are known as \u201cexternal complex su -field\u201d models. Note: It is important that a newly introduced substance does not add a new field to a system which causes additional energy consumption.  and produces visible bubbles."
+            },
+            "1.1.4": {
+                "StandardName": "Su-field on environment",
+                "Description": "If there  is a need to improve positive effect, and the conditions contain limitations on the introduction or attachment of substances, the problem can be solved by using existing environment as the substance which can increase the efficiency of the existing intera ction. An imbalanced vibrating device, in which an imbalance (S2) has a shape of a wing to increase perturbation forces. In this solution, the air acts as a new substance."
+            },
+            "1.1.5": {
+                "StandardName": "Su-field on modified environment",
+                "Description": "If there is a need to improve positive effect of interaction and external environment does not contain ready -to-use substances which can enhance the existing interaction, these new substances can be obtained by: 1) replacing the external environment with another one, or 2) by decomposing the existing env ironment, or 3) by introducing new additives to the environment. To improve a coefficient of sliding effect between two objects (S1 and S2), a liquid lubricant is aerated."
+            },
+            "1.1.6": {
+                "StandardName": "Optimal su-field",
+                "Description": "If a \u201cminimal\u201d (measured, optimal) effect of action of a field upon substance or of one substance upon another is required, but it is difficult or impossible to achieve under the conditions of a problem, then a maximal action can be used, but the excess of the action is removed afterwards: 1) excess of a field is removed by a new substance; 2) excess of 1) To paint an object (S1) accurately, the part first loaded into a container with the paint (S2), and then subjected to rotation. Excess of paint is  a substance is removed by a field (a new field can be introduced to a system to provide the function of removal), removed due to centrifugal forces (F2)."
+            },
+            "1.1.7": {
+                "StandardName": "Maximal mode of a field",
+                "Description": "If a maximal effect of action upon a substance i s required but this is not allowed or not desirable under the conditions of a problem, maximum action can be preserved but directed towards a new substance which is attached to the first one. Thus the new substance becomes an intermediate carrier which tra nsfers only the needed (limited) part of the action towards the first substance. When manufacturing reinforced concrete, it is possible to use metal wire (S1) instead of rods. But the wire has to be stretched. To do this the wire has to be heated up ( F) to 700C what is not allowed. The wire (S1) is connected to the rod (S2) that is heated (F) while the wire remains cold."
+            },
+            "1.1.8.1": {
+                "StandardName": "Selective mode with maximal field",
+                "Description": "If a selective effect of action is required (maximal effect in certain zones of a substance, while minimal or zer o effect should be maintained in other zones of the substance), a field is made maximal; then a protective substance is introduced in places where a minimum effect is required. When sealing a glass ampoule (S1max) with liquid medicine an overheated glass(S1 min)  might destroy the medicine. The ampoule is put into water (S2) while leaving the ampoule\u2019s tip (S1max) above the water. Water protects the rest of the ampoule (S1 min) from overheating."
+            },
+            "1.1.8.2": "Selective mode with minimal field"
+        },
+        "Group 1.2 (Elimination of harmful links)": {
+            "1.2.1": {
+                "StandardName": "Elimination by a new substance",
+                "Description": "If both positive and negative effects appear between two substances in su -field and there is no need to maintain a direct contact between the two substances, the problem is solved by introducing a third substance between them which break s the harmful effect of interaction while preserving the useful effect of interaction.  To compact walls (S2) of a borehole, gases (S1) wich are  produced during explosion are used. However, the gases can cause cracks in the borehole\u2019s walls. It is proposed to cover the walls by plasticizer (S3) which transmits pressure but prevents the walls from crack formation.  Notes:  The third substance can also be obtained from the present substances by exposure to the existing fields. In particular, the substance to be introduced can be bubbles, foam, etc."
+            },
+            "1.2.2": {
+                "StandardName": "Elimination by a modified substance",
+                "Description": "If there are both positive and negative effects between two substances, and there is no need to maintain direct contact between the substances, and it is forbidden or inconvenient to use foreign substances, the problem can be solved by introducing a third substance between the two, which is a modification of the first or the secon d substances. Note:  The third substance can be obtained from the existing substances by exposure to the present fields.  In particular, the substance to be introduced can be bubbles, foam, etc. Besides, a modification of the substance may bring about a ch ange in the law of its movement: movable -fixed parts, etc. A hydrodynamic foil\u2019s surface might be destroyed by cavitations produced as a result of friction between the foil (S2) and the water (S1) when moving at high speed. It is proposed to refrigera te the surface of the foil. Surrounding water will freeze and form an ice layer (Modified S2) on the foil\u2019s surface."
+            },
+            "1.2.3": {
+                "StandardName": "Distraction by a new field",
+                "Description": "If it is required to eliminate the negative effect of a field upon a substance, the problem can be solved by introducing a  foreign substance that draws off upon itself the harmful effect of the field. To protect underground cables (S1) from stresses (F) of the ground occurring during frost, cavities (S2) are formed in the ground beforehand."
+            },
+            "1.2.4": {
+                "StandardName": "Dual su-field",
+                "Description": "If both positive and negative effects appear between two substances in a su -field, and a direct contact between the substances must be maintained, the problem can be solved by transition to a dual su -field, in which the useful effect is provided by the exi sting field while a new field neutralizes the harmful effect (or transforms the harmful effect into a useful effect). To help with pollination of a flower (S1), airflow (S2) is used. However, it also closes the flower. It is proposed to open the flower  with electrostatic discharge (F2)."
+            },
+            "1.2.5": {
+                "StandardName": "Switching off magnetic field",
+                "Description": "If it is necessary to eliminate negative effect caused by a magnetic field, the problem is solved by using physical effects, which are capable of \u201cswitching off\u201d ferromagnetic properties of substances, e.g. by demagnetizing during an impact or during heating above Curie point. Notes:  The magnetic field may appear at the right moment if a system of magnets compensating the effect of each other's field is used. When one of the magnets is demagnetized, a magnetic field arises in the system.  During welding, it is difficult to insert a ferromagnetic powder (S1) in the welding zone (S2): an electromagnetic field (F1) of a welding current makes the particles move away from the welding zone. It is proposed to heat the powders above the Curie point (F2) to make them non-magnetic."
+            }
+        }
+    },
+    "Class 2 (Evolution of su-fields)": {
+        "Group 2.1 (Complex su-field)": {
+            "2.1.1": {
+                "StandardName": "Chain su-field",
+                "Description": "Effectiveness  of a su -field can be improved by transforming one of the parts of the su -field into an independently controllable su -field, thus forming a chain su -field. A metal object (S1) is reliably secured with a wedge (S2) due to mechanical forces (F). But how to remo ve the wedge? It was proposed to design a new wedge by composing the wedge of two parts (S2 and S3), while one of the parts (S3) is made from an alloy which has low melting temperature."
+            },
+            "2.1.2": {
+                "StandardName": "Dual su-field",
+                "Description": "If it is necessary to improve the effectiveness of su-field, and replacement of su -field elements is not allowed, the problem can be solved by the synthesis of a dual su -field by introducing a second field which is easier to control. It is proposed to improve control over hydrostatic head (F1) via the height of molten metal (S1) in a ladle (S2) by additionally rotating the  molten  metal by an electromagnetic field (F2)."
+            }
+        },
+        "Group 2.2 (Evolution of su-fields)": {
+            "2.2.1": {
+                "StandardName": "Replacement of a field",
+                "Description": "Effectiveness  of su-field systems can be improved by replacing an uncontrollable (or poorly controllable) field with a well - controllable field. For instance, by replacing a gravitation field with mechanical field, mechanical field with an electric, etc. In certain situations,  controllability of a field may be improved not only by replacing a given field with another one, but also by modifying the present field along the following line: Permanent field > monotonically changing one > pulsed one > variable one -> vari able in frequency and amplitude -> etc.  Instead of a metal blade (S1) for non -uniform metal cutting, a water jet (S new) can be used."
+            },
+            "2.2.2": {
+                "StandardName": "Fragmented S1",
+                "Description": " \"Effectiveness  of a su -field can be improved by increasing the degree of fragmentation of the object whic h acts as an tool in the su -field. This standard solution displays one of the major trends of the technology evolution: fragmentation of an object which acts as a \u201ctool\u201d or its part interacting with another object which acts as a \u201cproduct\u201d. Evolution of the object\u2019s segmentation passes through the following phases: Non-fragmented object -> Fragmented object > Powder > Liquid > Gas > A new field which delivers a function of a substance object. A traditional knife > A knife with teeth > The knife with abrasive coating -> laser knife.\""
+            },
+            "2.2.3": {
+                "StandardName": "Pores and capillaries",
+                "Description": " \"Effectiveness  of a su -field system can be improved by transition from a solid object to a capillary porous one.  The transition is performed as: Solid object > object with one cavity > object with multiple cavities (perforated) > capillary porous object > capillary porous object with a predefined porous structure. Notes:  Transition to a capillary porous object enables liquid or gaseous substance to be placed in the pores and the use of physical effect s capable of transforming liquid or gas.  A bunch of capillaries (S1 with filament) apply liquid glue more accurately on a surface to be glued (S2) than a single large-sized tube.\""
+            },
+            "2.2.4": {
+                "StandardName": "Dynamixation of substance",
+                "Description": "Effectiveness  of a su -field system can be improved by increasing the degree of dynamics of the su -field system, i.e. by transition to a more flexible, rapidly changing structure of the system. Notes:   Making a substance dynamic starts with dividing it into two joint -coupled pa rts and continues along the following line: One joint > many joints > flexible object. A field can be made more dynamic by transition from a permanent field (or of the A door made of hinged segmen ts > \u201cHarmonica\u201d door > A foldable  door.  field together with a substance) to a pulsed field."
+            },
+            "2.2.5": {
+                "StandardName": "Structuring of a field",
+                "Description": "Effectiveness  of a su -field system can be improved by transition from a uniform field or fields with a disordered structure to non - uniform fields or fields with a definite spatial - temporal structure (permanent or variable). Notes:   If a certain spatial structure is to be imparted to a substance object, the process can be conducted in a field having a structure that matches the required structure of the substance object.  To mix two magnetic powders(S1 and S2), a layer of the first powder is put in the layer of the second powder and the non -uniform magnetic field (F1 disordered) is applied."
+            },
+            "2.2.6": {
+                "StandardName": "Structuring of a substance",
+                "Description": "Effectiveness  of a su -field system can be improved by transition from substances that are uniform or have a disordered structure to substances that are non -uniform or have a predefined spatial -temporal structure (permanent or variable). Notes:   In particular, if an intensive effect of a field is required in  certain places of a system (points, lines), then substances that produce the required field are introduced in these spots beforehand.  To make a porous material with oriented spatial structure the field threads are inserted into the soft material beforehan d. After the material solidifies these threads are burned out."
+            }
+        },
+        "Group 2.3 (EVOLUTION BY COORDINATION)": {
+            "2.3.1": {
+                "StandardName": "Coordination of a field",
+                "Description": ". Effectiveness  of a su -field system can be improved by matching (or mismatching) the frequency of acting field with the natural frequency of a product (or tool). 1. The rhythm of massage is synchronized with a pulse of a patient.  2. In arc welding, the frequency of magnetic field is equal to the natural frequency of a melting electrode."
+            },
+            "2.3.2": {
+                "StandardName": "Coordination of fields",
+                "Description": ". Effectiveness  of a complex su -field system can be improved by matching (or mismatching) frequencies of the fields being used. To coat a part with a material, the material is applied as a powder (S1). To provide a high degree of regularity, the frequencies of pulses of an electrical current (F1) and pulses of magnetic field (F2) are made equal."
+            },
+            "2.3.3": {
+                "StandardName": "Coordination of incompatible actions",
+                "Description": ". If we are given two incompatible actions, e.g. changing and measuring, one action should be performed during the pauses between another one. In general, pauses in one action should be filled with another useful action. To provide accuracy of contact welding, measurements are conducted during the pauses between the pulses of an electrical current."
+            }
+        },
+        "Group 2.4 (Evolution by transition to ferromagnetic and electric su-fields)": {
+            "2.4.1": {
+                "StandardName": "Replacement of field by magnetic field",
+                "Description": ". Effectiveness  of a su -field system is enhanced by using a ferromagnetic substance and a magnetic field. One of the components of a su -field system is completely replaced with a substance which has magnetic properties . Notes:  1. The standard indicates the use of a ferromagnetic substance that is not in a fragmented state. 2. Ferromagnetic su -field is a su -field system in which a disperse ferromagnetic substance and a magnetic field are interacting with each other.  To easy the process of accurate positioning of two pipes during joining, faces of the pipes are made from magnetized ferromagnetic materials."
+            },
+            "2.4.2": {
+                "StandardName": "Ferromagnetic su-field (FSF)",
+                "Description": ". Effectiveness  of control over a su -field system can be improved by replacing one of the su bstances with ferromagnetic particles (or adding ferromagnetic particles) - chips, granules, grains, etc. - and using magnetic or electromagnetic field to control the ferromagnetic particles. To increase efficiency of a robot's gripper whic h is used to lift an irregularly - shaped fragile part, the gripper is made as a flexible ring filled with ferromagnetic powder. After the ring is placed around the part which has to be lifted, the electromagnetic  Note:  Efficiency of control increases with a higher degree o f fragmentation of ferromagnetic particles and of the substance in which they are introduced by following the line:  Ferromagnetic  granules > ferromagnetic powder > finely dispersed ferromagnetic particles  filed is applied to the powder. The particle s of the powder are thus pressed against each other and provide the required stiffness of the gripper."
+            },
+            "2.4.3": {
+                "StandardName": "Ferromagnetic su-field with magnetic fluid",
+                "Description": ". Effectiveness  of a ferromagnetic su -field system can be improved by using magnetic fluids - colloidal ferromagnetic particles suspended in kerosene, silicone or water. Shock absorber on the basis of magnetic fluid delivers the required force within milliseconds."
+            },
+            "2.4.4": {
+                "StandardName": "Ferromagnetic su-field with pores and capillaries",
+                "Description": ". Effectiveness  of a ferromagnetic su -field system can be improved by using a capillary porous struc ture inherent in many su -field systems. A wave soldering machine includes a magnetic cylinder coated with a layer of ferromagnetic particles. Its main purpose is to remove the excess of solder. At the same time, the porous design of the cylinder allows flux to be fed through the pores to the place of soldering."
+            },
+            "2.4.5": {
+                "StandardName": "Internal and external complex Ferromagnetic su-field",
+                "Description": ". If it is required to raise the effectiveness  of control, and replacement of substances with ferromagnetic particles is not allowed, one has to compose internal or external complex ferromagnetic a su -field system, introducing ferromagnetic additives into one of the existing substances. In order to transport non - magnetic objects with an electromagnet, the objects are placed to the ferromagnetic powder."
+            },
+            "2.4.6": {
+                "StandardName": "Ferromagnetic su-field on external environment",
+                "Description": ". If it is required to raise the effectiveness  of control, and replacement of substances with ferromagnetic particles is not a llowed, the ferromagnetic particles should be introduced in the external environment. Then, using the magnetic field, the environment parameters To control descent of an object in a liquid , ferromagnetic particles are added to the liquid thus forming a magnetic fluid. The density of the magnetic fluid will change  should be changed so that the system becomes more controllable. proportionally the intensity of applied electromagnetic field."
+            },
+            "2.4.7": {
+                "StandardName": "Use of physical effects in Ferromagnetic su-field",
+                "Description": ". Controllability of a ferromagnetic system can be improved by the use of physical effects which can change magnetic properties of materials. To reduce level of magnetic noise in a magnetic amplifier, a core of the magnetic amplifier is subjected to heating. The temperature of heating is kept about 92 -99% of the Curie temperature of material the core is made from."
+            },
+            "2.4.8": {
+                "StandardName": "Dynamization of su-field",
+                "Description": ". Effectiveness  of F-su-field can be improved by increasing the degree of dynamics in the system, for instance, by transition to a more flexible, rapidly changing structure of  the system. Making a substance more dynamic begins with dividing it into two joint -coupled parts and continues along the following line: One joint > many joints > flexible substance. A field is made dynamic by going over from a permanent effect of the field (or of the field together with a substance) to a pulsed effect. A device for measuring the thickness of thin walls of a hollow non -magnetic object consists of a ferromagnetic element which is placed inside the object and inductive converter located outside the object. To increase the accuracy of measurement, the ferromagnetic element is made as an inflatable shell coated with ferromagnetic powder."
+            },
+            "2.4.9": {
+                "StandardName": "Structuring of Ferromagnetic su-fields",
+                "Description": ". Effectiveness  of F- su-field can be improved by transition from fields that are  uniform or have a disordered structure to fields that are non-uniform or have a definite spatial - temporal structure (permanent or variable). Notes:   If a certain spatial structure is to be imparted to a substance object, the process can be conducted in a field having a structure that matches the required structure of the substance object. A method for production of fibres on the surface of thermoplastic material: ferromagnetic particles are applied to the material in places where the fibres have to be f ormed, and then the material is heated until its surface layer becomes molten. An electromagnet is placed above the particles and attracts them, which, in turn, \"pull out\" plastic fibres. Then the electromagnet removes the particles from the material  while newly formed fibres become solid."
+            },
+            "2.4.10": {
+                "StandardName": "Coordination of Ferromagnetic su-field",
+                "Description": ". Effectiveness  of F- su-field can be improved by matching the rhythms of the system's elements. To improve the process of vibration -magnetic separation of materials, it was proposed to reverse magnetic field synchronously with the frequency of vibrations. This results in the reduced adhesion forces between particles."
+            },
+            "2.4.11": {
+                "StandardName": "Su-field with electric field",
+                "Description": ". If it is not allowed to introduce ferromagnetic substances or to perform magnetization, an E- su-field has to be synthesized using: a) interaction of an external electromagnetic field with currents or b) fed through a contact or induced without a contact, or c) using interaction between these currents. Notes:  An E- su-field is a su -field in which electric currents interact with each other. The evolution of E - su-field repeats the line of evolution of complex -boosted su -fields: Simple E - su-field > comp lex E- su-field > E - su-field in the external environment > E - su- field Dynamisation > structuring > matching the rhythms.  A method for crushing the rock: two conductive wires are placed one parallel to another while pulsed electric current passes through the wires."
+            },
+            "2.4.12": {
+                "StandardName": "Su-field with electrorheological fluid",
+                "Description": ". If a magnetic fluid cannot be used, one can use an electrorheologic  fluid (a suspension of fine quartz powder in toluene, for instance, with viscosity being changed by the electric field).  A su -field with an electrorheologic fluid is a special form of E - su-field. An electrorheologic fluid with varying density is use d in shock absorber."
+            }
+        }
+    },
+    "Class 3 (TRANSITIONS TO MACRO (SUPERSYSTEM) AND MICRO LEVELS)": {
+        "Group 3.1 (transition to macro level)": {
+            "3.1.1": {
+                "StandardName": "Transition to bi and poly systems",
+                "Description": ". System effectiveness  at any stage of its evolution can be improved by combining the system with another system (or  systems) to form a bi - or polysystem. Notes:  For a simple formation of bi - and polysystems , two and more components are combined. Components to be combined may be substances, fields, substance -field pairs and whole su -field. To abrasively polish sides of thin glass plates, several plates are put together to prevent glass from breaking. STANDAR D 3-1-2. Effectiveness  of bi- and polysystems can be improved by developing links between system elements. Notes:  Links between elements of a bi - and polysystem may be made either more rigid or more dynamic.  To synchronize a process of lifting a very heavy part by three cranes, it is proposed to use a rigid triangle synchronizing the cranes moving parts."
+            },
+            "3.1.2": "Developement of links in bi and poly systems",
+            "3.1.3": {
+                "StandardName": "Incresing difference between system elements",
+                "Description": ". Effectiveness  of bi- and polysystems can be improved by increasing the difference between system components. The following line of evolution is recommended: similar components (pencils of the same colour) > components with biased characteristics (pencils of different colours) > different components (set of drawing instruments) > combinations of the \"component  + component with opp osite function\u201d (pencil with  rubber)"
+            },
+            "3.1.4": {
+                "StandardName": "Convolution of bi and polysystems",
+                "Description": ". Efficiency of bi - and polysystems can be improved by \u201cconvolution\u201d (integration of several components into a single component) by reducing auxiliary components. Completely convoluted bi - and polysystem s become Instead of three separate indicators on a dashboard, a single indicator can be used in which indicating  mono -systems again, and integration can be repeated at another level of the system. arrows are made of different colours."
+            },
+            "3.1.5": {
+                "StandardName": "Dual properties of a whole and its parts",
+                "Description": ". Effectiveness  of bi- and polysystems can be improved by distributing incompatible properties among the system and its parts. This is achieved by using a two -level structure in which all the system as a whole has a certain property A, while its parts (partic les) have property anti -A. A working part of a vice is made of segmented plates capable of moving relatively each other. Parts of various shapes can be gripped quickly."
+            }
+        },
+        "Group 3.2 (Transition to micro levels)": {
+            "3.2.1": {
+                "StandardName": "transition to microlevel",
+                "Description": ". Effectiveness  of a system at any stage of its evolution can be improved by transition from a macrolevel to a microlevel: the system or its part is replaced by a substance capable of delivering the required function when interacting with a field. Notes:   There is a multitu de of microlevel states of a substance (crystal lattice, molecules, ions, domains, atoms, fundamental particles, fields, etc.). Therefore, various options of transition to a microlevel and various options of transition from one microlevel to another, lower  one, should be considered when solving a problem.  Instead of a micro -screw, a microscopic table can be positioned by fixing it on a metal rod that is subjected to a thermal field. The rod expands and contracts relatively the value of the temperature due to the effect of thermal expansion."
+            }
+        }
+    },
+    "Class 4 (MEASUREMENT AND DETECTION)": {
+        "Group 4.1 (Change instead of measurement/detection)": {
+            "4.1.1": {
+                "StandardName": "Change instead of measurement or detections",
+                "Description": ". If a problem involves detection or measurement, it is proposed to change the problem in such a way, so that there should be no need to perform detection or measurement at all. To prevent a permanent electric motor from overheating, its temperature is measured by a temperature sensor. If to make the poles of the motor of an alloy with a Curie point equal to the critical value of the temperature, the motor will stop itself."
+            },
+            "4.1.2": {
+                "StandardName": "Use of copies",
+                "Description": ". If a problem involves detection or measurement, and it is impossible to change the problem to eliminate the need for detection or measurement, it is proposed  to change/detect properties of a copy of the object  (e.g. picture). It might be dangerous to measure the length of a snake. It is safe to measure its length on a photographic image of the snake, and then recalculate the obtained result."
+            },
+            "4.1.3": {
+                "StandardName": "Sequence of detections instead of measurement",
+                "Description": ". If a problem involves detection or measurement, and the problem cannot be changed to eliminate the need for measurement, and it is impossible to use copies or pictures, it is proposed to transform this problem into a problem of successive detection of changes. Notes:  Any measurement is conducted with a certain degree of accuracy. Therefore, even if the problem deals with continuous measurement, one can always single out a simple act of measurement that involves two successive detections. This makes the problem much simpler. To measure a temperature, it is possible to use a material that changes its colour depending on the current value of the temperature. Alternatively, several materials can be used to indicate different temperatures."
+            }
+        },
+        "Group 4.2 (Building measurment su-fields)": {
+            "4.2.1": {
+                "StandardName": "Building measurement su-field",
+                "Description": ". If a non -su-field system is difficult to detect or measure, a  problem  is solved by synthesizing a simple or dual su -field with a field at the output. Instead of direct measurement or detection o f a parameter, another parameter identified with the field is measured or detected. The field which is introduced should have a parameter that we can easily detect or measure, and which can indicate the state of the parameter we need to detect or measure. To detect a moment when a liquid (S1) starts to boil, an electrical current (F new) is passed through the liquid. During boiling, air bubbles  are formed - they dramatically reduce electrical resistance (F\u2019 new) of the liquid."
+            },
+            "4.2.2": {
+                "StandardName": "Internal complex su-field for measurement",
+                "Description": ". If a system (or its part) does not provide the required accuracy of detection or measurement, a problem is solved by transition to an internal or  external complex measuring su -field, introducing  easily detectable additives. To detect leakage of a cooling agent (S1) in a refrigerator by an eye (F), a cooling agent is mixed with a luminescent powder (S2). Then the refrigerator is exposed to ultraviolet light (F new)."
+            },
+            "4.2.3": {
+                "StandardName": "Additives to environment",
+                "Description": ". If a system is difficult to detect or to measure at a given moment o f time and it is not allowed or not possible to introduce additives into the object, then additives that create an easily detectable and measurable field should be introduced in the external environment. Changing the state of the environment will indicate the state of the object. To detect wearing of a rotating metal disc (S1) contacting with another disk, it is proposed to introduce luminescent powder (S2) into the oil lubricant, which already exists in the system. Metal particles collecting in the oil will reduce luminosity of the oil."
+            },
+            "4.2.4": {
+                "StandardName": "Measurement of modified environment",
+                "Description": ". If it is impossible to introduce easily detectable additives in the external environment, these can be obtained in the environment itself, for instance, by decomposing the environment or by changing t he aggregate state of the environment.  In particular, gas or vapour bubbles produced by electrolysis, cavitations or by any other method may often be used as additives obtained by decomposing the external environment. The speed of a water flow (S1) in a pipe might be measured by amount of air bubbles (modified environment) resulting from cavitations."
+            }
+        },
+        "Group 4.3 (Improvement of measurement systems)": {
+            "4.3.1": {
+                "StandardName": "Use of physical effects",
+                "Description": ". Effectiveness  of a measuring su -field can be improved by the use of physical effects. Temperature of liquid media can be measured by measuring a change of a coefficient of retraction, which depends on the value of the temperature."
+            },
+            "4.3.2": {
+                "StandardName": "Measurement of resonance",
+                "Description": ". If it is impossible to detect or measure directly the changes in the system, and no field ca n be passed through the system, the problem can be solved by exciting resonance oscillations (of the entire system or of its part), whose frequency change is an indication of the changes taking place. To measure the mass of a substance in a container, the container is subjected to mechanically forced resonance oscillations (F resonance). The frequency of the oscillations depends on the mass of the system."
+            },
+            "4.3.3": {
+                "StandardName": "Measurement of resonance or natural frequencey of attached object",
+                "Description": ". If resonance oscillations may not be excited in a system, a state of th e system can be determined by a change in the natural frequency of the object (external environment) which is connected with the system. The mass of boiling liquid can be measured by measuring the natural frequency of gas resulting from evaporation."
+            }
+        },
+        "Group 4.4 (Transition to F-du-fields for measurement and detection)": {
+            "4.4.1": {
+                "StandardName": "Using magnetic field for measurement",
+                "Description": "Effectiveness  of a measuring su -field can be improved by using a ferromagnetic substance and a magnetic field. Notes:  The standard indicates the use of a non-fragmented ferromagnetic object.  To detect displacement of an object during experiment, it is replaced by a magnet, and inte nsity of a magnetic field is measured."
+            },
+            "4.4.2": {
+                "StandardName": "F-su-field for measurement",
+                "Description": ". Effectiveness  of detection or measurement can be improved by transition to ferromagnetic su - fields, replacing one of the substances with ferromagnetic particles (or adding ferromagnetic particles) and  by detecting or measuring the magnetic field. To define the degree of solidification or softening of polymer compounds (S1), magnetic powder is added to the compound (S2). The degree of solidification/softening will change magnetic permeability of the compound."
+            },
+            "4.4.3": {
+                "StandardName": "Complex F-su-field for measurement",
+                "Description": ". If it is required to improve the effectiveness  of detection or measurement by transition to a ferromagnetic su -field, and replacement of the substance with ferromagnetic particles is not allowed, the transition to the F - su-field  is performed by synthesizing a complex ferromagnetic su -field, introducing (or attaching) ferromagnetic additives in the substance. Hydraulic breaking of rock is made by liquid to which ferromagnetic powder is added to improve the control over the liquid."
+            },
+            "4.4.4": {
+                "StandardName": "Ferromagnetic additives in environment",
+                "Description": ". If it is required to improve effectiveness  of detection or measurement by transition to F - su-field, and introduction of ferromagnetic particles is not allowed, ferromagnetic particles are introduced in the external environment . To study a process of water waves formation, ferromagnetic powder is added to the water."
+            },
+            "4.4.5": {
+                "StandardName": "Use of physical effects for F-su-fields",
+                "Description": ". Effectiveness  of a F - su-field measuring system can be improved by using physical effects, for instance, Curie point, Hopkins and Barkhausen eff ects, magnetoelastic effect, etc. Measuring micro - mechanical strain in ferromagnetic materials by using the Barkhausen effect: appearance of \u201cmagnetic noise\u201d when the domain structure of a ferromagnetic material is changed."
+            }
+        },
+        "Group 4.5 (Evolution of measurement systems)": {
+            "4.5.1": {
+                "StandardName": "Creating bi- and poly-systems for measurement",
+                "Description": ". Effectiveness  of a measuring system   at any stage of its evolution can be improved by forming bi - or polysystem. Notes:  To form bi - and polysystems , two or more components are combined.  The components to be combined may be substances, fields, substance -field pairs and su-fields. It is difficult to accurately measure the temperature of a small beetle. However, if there are many beetles put together,  the temperature can be measured easily."
+            },
+            "4.5.2": {
+                "StandardName": "Measuring first or second derivative",
+                "Description": " \" Measuring systems evolve towards measuring the derivatives of the function under control.  Change of stress in the rock are defined by the speed of changing the  The transition is performed along the following line: Measurement of a function \u2013-> measurement of the first derivative of the function \u2013-> measurement of the second derivative of the function. electrical resistance of the rock.\""
+            }
+        }
+    },
+    "Class 5 (HELPERS)": {
+        "Group 5.1 (Introduction of substances)": {
+            "5.1.1.1": {
+                "StandardName": "Using void instead of a substance",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, a \"void\" can be used instead of the substance. Notes:  A \"void\u201d is usually gaseous substance, like air, or empty space formed in a solid object. In some cases a \"void\" may be formed by other substances, such as liquids (foam) or loose bodies.  To form a grid of empty channels in a transparent plastic block, the block is manufactured with copper wire insi de which repeats the needed structure of the grid. Then the copper wires are etched by acid."
+            },
+            "5.1.1.2": {
+                "StandardName": "Using a field instead of a substance",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, a field can be introduced instead of the substance. To measu re the degree of extraction of a thread during manufacturing, the thread is electrically charged, and the change of linear density of a charge is measured."
+            },
+            "5.1.1.3": {
+                "StandardName": "Internal additive instead of external one",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, an external additive can be used instead of an internal one. To measure thickness of the walls of a hollow vessel, the vessel is filled in with a fluid which has high degree of electric conductivity. One electrode is inserted to the fluid, and another is applied to the wall of the vessel outside the vessel. A value of electrical resistance between the electrodes will indicate the needed size."
+            },
+            "5.1.1.4": {
+                "StandardName": "Very active substance in small quantities",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, a ve ry active additive can be introduced in very small quantities. To reduce hydrodynamic pressure in a mineral oil lubricant, very small quantity of polymetacrylate is added to the oil."
+            },
+            "5.1.1.5": {
+                "StandardName": "Very active substances selectively",
+                "Description": ". If it is necessary to introduce a substance in the s ystem, and it is not allowed, an additive can be introduced in very small quantities, and concentrated in certain parts of the object. To make polymer electroconductive, ferromagnetic powder is applied to the surface of the polymer in form of a grid."
+            },
+            "5.1.1.6": {
+                "StandardName": "Temporary additive",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, the substance can be introduced temporarily and then removed. To accurately position hollow plastic parts during manufacturing process, they are filled wit h ferromagnetic powder which is removed after the parts were positioned with magnetic field."
+            },
+            "5.1.1.7": {
+                "StandardName": "Use of copies",
+                "Description": ". If it is necessary to introduce a substance in an object, and it is not allowed, a copy of the object can be used instead of the object itself , to which introduction of substances is allowed. If it is necessary to study a chemical reaction in the expensive equipment which can\u2019t be stopped, a part of the equipment can be build separately where the chemical reaction can be studied."
+            },
+            "5.1.1.8": {
+                "StandardName": "Chemical composition",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed by the system's operating conditions, the substance can be introduced in a form of a chemical compound which can be later decomposed. To plasticize wooden parts during friction, the parts are impregnated with salts which extract ammonia under the friction temperature."
+            },
+            "5.1.1.9": {
+                "StandardName": "Decomposition of environment",
+                "Description": ". If it is necessary to introduce a substance in the system, and it is not allowed, the substance can be produced by decomposing the external environment or the object itself, for instance, by electrolysis, or by changing the aggregate state of a part of the object or external environment.  To intensify mass transfer in a fluid when rotation of the fluid is not allowed, electrolysis is used to produce gas which helps to intensify the process."
+            },
+            "5.1.2": {
+                "StandardName": "Divison of a substance (product)",
+                "Description": ". If a system is not easy to change as required, and the conditions do not allow replacing a component acting as an instrument or introduce additives, a product has to be used instead of the tool, by dividing the product into parts interacting with each other.  To intensify a process of mix agitation, the mix is divided to two streams which are fed towards each other. Collision of streams intensifies the process of agit ation."
+            },
+            "5.1.3": {
+                "StandardName": "Self-liquidation of a substance",
+                "Description": ". After the substance introduced in the system has fulfilled its function, it should either disappear or become indistinguishable from the substance that was in the system or in the external environment before. Note:  The substance that has been introduced may disappear due to chemical reactions or change of phase.  To wash hollow parts inside, they are filled with liquid detergent which then is completely evaporated."
+            },
+            "5.1.4": {
+                "StandardName": "Use of void instead of large quantities of a substance",
+                "Description": ". If it is necessary to introduce a large quantity of a substance, but this is not allowed, a \"void\" in the form of inflatable structures or foam should be used as the substance. Note:  Introduction of foam or inflatable structures resolves a contradiction 'much substance - little substance'.  To transport an airplane in accident conditions, inflatable air balloons are placed under the airplane and lift it from the ground."
+            }
+        },
+        "Group 5.2 (Introduction of fields)": {
+            "5.2.1": {
+                "StandardName": "Use of existing fields",
+                "Description": ". If a field has to be introduced in a SU - FIELD, one should use first of all the present fields for whom the media are those substances that form the system or its part.  To separate gas bubbles from liquid in a flow of liquid oxygen, the flow is subjected to rotating. Centrifugal force pushes  Note:  The use of substances and fields which already present in the system improves the system\u2019s ideality: number of functions performed by the system increases without increasing the number of used components.  lightweight gas towards the edges of the flow while heavier liquid resides in the centre."
+            },
+            "5.2.2": {
+                "StandardName": "Use of fields of external environment",
+                "Description": ". If a field has to be introduced in a SU - FIELD and it is not possible to use the fields which already present in the system, one should use the fields of the external environment. Note:  The use of external environment fields (gravitation, thermal field, pressure...) improves the system\u2019s ideality: the number of functions performed by the system increases without increasing the number of used components.  To remove humidi ty from a road on a bridge, an ejector loaded to a river is used."
+            },
+            "5.2.3": {
+                "StandardName": "Use of substances -sources of fields",
+                "Description": ". If a field has to be introduced in a SU - FIELD but it is impossible to use the fields which already present in the system or in the external environment, one should use the fields for whom the substances present in the system or external environment can act as media or sources. Notes:  In particular, if there are ferromagnetic substances in a system and they are used for mechanical purposes, it is possible to use their magneti c properties in order to obtain additional effects: improve interactions between components, obtain information on the state of the system, etc.  The pair \u201cA cutter (tool) \u2013 metal part (product)\u201d forms a thermocouple which can be used to measure the tempera ture of cutting."
+            }
+        },
+        "Group 5.3 (Use of phase transitions)": {
+            "5.3.1": {
+                "StandardName": "Replacement of phase states",
+                "Description": "Effectiveness  of the use of a substance without introducing other substances can be improved by changing its phase.  Pneumatic systems in mines use liquefied (not compressed) gas."
+            },
+            "5.3.2": {
+                "StandardName": "Dual phase state",
+                "Description": ". \"Dual\" properties are provided by using substances capable of converting from one phase to another according to operating conditions.  A hot object is surrounded by cooling plates made of the material with shape memory. When the temperature rises, the plates bend thus increasing the cooling surface."
+            },
+            "5.3.3": {
+                "StandardName": "Use of effects from phase transitions",
+                "Description": "Effectiveness  of a system can be improved by the use of physical phenomena accompanying phase transitions. Notes:  Structure of a substance, density, thermal conductivity, etc. als o change along with the change of aggregate state during all types of phase transitions. In Moving heavy frozen goods surrounded by an ice layer over inclined surface decreases frictio n due to ice melting.   addition, during phase transitions, energy may be released or absorbed."
+            },
+            "5.3.4": {
+                "StandardName": "Use of combinations of phase states",
+                "Description": "\"Dual\" properties of a system are provided by replacing a single -phase state of the substance with a dual -phase state.  To polish objects, a polish medium consists of polishing liquid and solid abrasive particles."
+            },
+            "5.3.5": {
+                "StandardName": "Intetraction of different phases",
+                "Description": "Effectiveness of systems obtained as a result of replacing a substance\u2019s single - phase state with a dual -phase state can be improved by introducing interaction (physical or chemical) between parts (phases) of the system.  A working medium cons ists of chemically reacting substances, which dissociate and decrease their molecular weight during heating and recombine during cooling"
+            }
+        },
+        "Group 5.4 (Use of physiscal effects)": {
+            "5.4.1": {
+                "StandardName": "Self-controlled physical states",
+                "Description": "If an object is to be alternating between different physical states, the transition is performed by the object itself using reversible physical transformations, e.g. phase transitions, ionization - recombination, dissociation -association, etc. Note:  A dynamic balance providing for the process self -adjustment or stabilization may be maintained in the dual -phase state.  A lightning rod which is made as a hollow glass tube filled with rare gas which is electrically neutral. When the lightning strikes, the gas is ionised and becomes electrically conductive. Then it  recombines back to neutral state and does not create a radio shadow."
+            },
+            "5.4.2": {
+                "StandardName": "Amplification of an output field",
+                "Description": "If it is necessary to obtain a strong effect at the system's output, given a weak effect at the input, the transformer substance is placed to a condition close to criti cal. The energy is stored in the substance, and the input signal acts a \"trigger\".  To test a sealed hollow object against leakages, the object is placed to a liquid bath. Gas bubbles indicate leaks. To increase sensitivity of testing, the liquid is kept ov erheated."
+            }
+        },
+        "Group 5.5 (Obtaining substance particles)": {
+            "5.5.1": {
+                "StandardName": "Obtaining substance particles by decomposition",
+                "Description": "If substance particles (e. G. ions) are required to solve a problem and  they are not available according to the problem conditions, the required particles can be obtained by decomposin g a substance of a higher structural level (e.g. molecules).  To create high pressure of hydrogen, a hydrogen forming substance in placed to a sealed vessel, and hydrogen is released by electrolysis."
+            },
+            "5.5.2": {
+                "StandardName": "OBtaining substance particles by combination",
+                "Description": "If substance particles (e.g. molecules) are required to solve a problem and they can not be produced by decomposing a substance of a higher structural level, the required particles can be obtained by combining particles of a lower structural level (e.g. io ns). To reduce hydrodynamic resistance of water, it is proposed to create water molecular complexes by electromagnetic field."
+            },
+            "5.5.3": {
+                "StandardName": "Decomposition/combination of a nearest structural level",
+                "Description": "If a substance of a higher structural level has to be decomposed, the easiest way is to decompose the nearest hi gher element. When combining particles of a lower structural level, the easiest way is to complete the nearest lower element.  A lightning rod which is made as a hollow glass tube filled with rare gas which is electrically neutral. When the lightning strike s, the gas is ionised and becomes electrically conductive. Then it recombines back to neutral state and does not create a radio shadow."
+            }
+        }
+    }
+}
